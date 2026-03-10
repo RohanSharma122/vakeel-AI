@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/chunks/
+data/vector_store/
+models/
+*.faiss
+.DS_Store
